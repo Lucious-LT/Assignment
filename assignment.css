@@ -1,0 +1,29 @@
+/* The full body content */
+body{
+    background-color:antiquewhite;
+ }
+ .header{
+           text-align: center;
+}
+/* Image  */
+.mohbad{
+    width:250px;
+    height: 180px;
+    border-radius: 50%;
+    border-width: 2px;
+}
+/* Header text */
+.text{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+/* Comments and quotes */
+ .words{
+     text-align: center;
+     font-size: 25px;
+ }
+ .quotes{
+     font-style:bold;
+     font-size: 20px;
+     
+ }
